@@ -1,0 +1,124 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1537px 800px;
+    color: white;
+}
+
+img {
+    width: 8%;
+    /* height: 25%; */
+    margin-left: 43%;
+    margin-top: 23px;
+    filter: invert(100%);
+    /* opacity: 0.2; */
+}
+
+#navbar {
+    opacity: 0.7;
+    /* border: 2px solid red; */
+    margin-top: 40px;
+    margin-left: 384px;
+}
+
+.navbar ul {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar a {
+    color: white;
+    padding: 14px;
+    text-decoration: none;
+
+}
+
+#hr {
+    width: 53%;
+    /* margin-top: 25px; */
+    margin-left: 41px;
+    opacity: 0.1;
+}
+
+#hr2 {
+    width: 39.9%;
+    /* margin-top: 25px; */
+    margin-left: 424px;
+    opacity: 0.1;
+}
+
+a:hover {
+    color: rgba(0, 252, 252, 0.719);
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+    opacity: 0.6;
+}
+
+.text2 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 13px;
+    margin-left: 95px;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.text5{
+    color: black;
+    margin: 35px 0px 0px 95px;
+    font-family: 'Roboto', sans-serif
+}
+.text4{
+    /* display: inline-block; */
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 400px 0px 0px 95px;
+    font-weight: bolder;
+    font-size: 40px;
+    color: black;
+}
+.text3 {
+    /* border: 2px solid black;
+    padding: 6px; */
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+    opacity: 1;
+}
+
+.btn {
+    border: 0px solid black;
+    color: white;
+    background-color: red;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+    opacity: 1;
+    font-size: 15px;
+    padding: 15px;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+.burger {
+    display: inline-block;
+    margin: 373px 266px 0px 50px;
+    position: absolute;
+    right: 35px;
+}
+
+#Burger {
+    width: 565px;
+    height: 400px;
+    filter: invert(0%);
+}
